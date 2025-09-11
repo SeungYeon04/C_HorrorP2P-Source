@@ -128,7 +128,11 @@
 | [김희경] | UI/UX 디자인 |
 | [문수민](https://github.com/layo429) | 3D 모델링 |
 
-> 개발자는 자기 깃허브 계정 달고, 그 외엔 자기 포폴 페이지나 SNS URL 달아도 됨.
+> 개발자는 자기 깃허브 계정 달고, 그 외엔 자기 포폴 페이지나 SNS URL 달아도 됨.  
+  
+## 개발과정 
+
+[Notion 링크](https://purple-tail-e77.notion.site/2593b9ca5cc980f9a859c17950f10d79?pvs=74)  
   
 ## 참고 자료 
 
