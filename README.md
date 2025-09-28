@@ -7,7 +7,7 @@
 > **비전대 개발팀** 생존/탈출 · 무서버 **P2P 호스트형** · 1인 > 추후 멀티 
 
 <p align="center">
-  <img src="img/cover.png" alt="cover" width="720" />
+  <img src="./README_img/testimg01.png" alt="cover" width="720" />
 </p>
 
 <p align="center">
