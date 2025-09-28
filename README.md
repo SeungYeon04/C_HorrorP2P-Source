@@ -1,10 +1,10 @@
+# 📚 비전대 개발팀 [Back Library] 
 
-
-
-
-# 🎮 3D 멀티 공포게임
-
-> **비전대 개발팀** 생존/탈출 · 무서버 **P2P 호스트형** · 1인 > 추후 멀티 
+> **3D 생존/탈출형 스토리 공포게임** 
+> 비전대 학생들로부터 팀을 꾸려 개발한  
+> 무서버 **P2P 호스트형** 싱글게임으로  
+> 추후 밸런스에 따른 멀티까지 계획하고 있습니다.  
+> 👉 [개발 노션 바로가기](https://purple-tail-e77.notion.site/2593b9ca5cc980f9a859c17950f10d79?pvs=74)  
 
 <p align="center">
   <img src="./README_img/testimg01.png" alt="cover" width="720" />
@@ -254,10 +254,6 @@
 | 지민 | 아이디어 제공, 테스터 |
 
 > 개발자는 자기 깃허브 계정 달고, 그 외엔 자기 포폴 페이지나 SNS URL 달아도 됨.  
-  
-## 개발과정 
-
-[Notion 링크](https://purple-tail-e77.notion.site/2593b9ca5cc980f9a859c17950f10d79?pvs=74)  
   
 ## 참고 자료 
 
